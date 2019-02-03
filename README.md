@@ -9,9 +9,10 @@
   <li>Single Threaded - one command at a time.</li>
   <li>Synchronous - one at a time and in order.</li>
   <li>Invocation - running a function</li>
+  <li>Execution Stack</li>
 
  </ul>
  
 <h1>Notes</h1>
 
-In the 'Execution Phase' code is run line by line. JavaScript is single threaded and sychronous in it's execution.
+In the 'Execution Phase' code is run line by line. JavaScript is single threaded and sychronous in it's execution.Execution Stack Is once a function is invoked it stacks on the Global Execution Context. 
