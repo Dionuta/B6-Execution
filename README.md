@@ -15,4 +15,4 @@
  
 <h1>Notes</h1>
 
-In the 'Execution Phase' code is run line by line. JavaScript is single threaded and sychronous in it's execution.Execution Stack Is once a function is invoked it stacks on the Global Execution Context. 
+In the 'Execution Phase' code is run line by line. JavaScript is single threaded and sychronous in it's execution.Execution Stack is once a function is invoked it stacks on to the Global Execution Context. 
