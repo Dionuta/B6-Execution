@@ -5,11 +5,12 @@
 <h1>What Was Learned</h1>
  <ul>
 
-  <li></li>
-  <li></li>
+  <li>Execution Phase of Execution Context</li>
+  
 
  </ul>
  
 <h1>Notes</h1>
 
+In the 'Execution Phase' code is run line by line.
 
