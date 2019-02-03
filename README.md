@@ -6,11 +6,12 @@
  <ul>
 
   <li>Execution Phase of Execution Context</li>
+  <li>Single Threaded - one command at a time.</li>
+  <li>Synchronous - one at a time and in order.</li>
   
 
  </ul>
  
 <h1>Notes</h1>
 
-In the 'Execution Phase' code is run line by line.
-
+In the 'Execution Phase' code is run line by line. JavaScript is single threaded and sychronous in it's execution.
