@@ -8,7 +8,7 @@
   <li>Execution Phase of Execution Context</li>
   <li>Single Threaded - one command at a time.</li>
   <li>Synchronous - one at a time and in order.</li>
-  
+  <li>Invocation - running a function</li>
 
  </ul>
  
